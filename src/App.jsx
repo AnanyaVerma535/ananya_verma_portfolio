@@ -24,14 +24,14 @@ const PROJECTS = [
     desc: "AI-powered infrastructure issue reporting and management platform. Led a 4-member team to build a civic-tech system with intelligent image classification.",
     features: ["Gemini API automated classification from submitted images", "Geolocation-based validation for field-level actions", "MySQL database for complaint lifecycle tracking"],
     stack: ["HTML", "CSS", "JavaScript", "MySQL", "Gemini API", "Geolocation API"],
-    github: "https://github.com/AnanyaVerma535/infrasight-school-ai", demo: "infrasightschoolmonitoring.vercel.app",
+    github: "https://github.com/AnanyaVerma535/infrasight-school-ai", demo: "https://infrasightschoolmonitoring.vercel.app/",
   },
   {
     id: 2, category: "AI/ML", emoji: "🤖", title: "AI Interview Bot", role: "Developer", period: "2025", badge: "AI-Powered", badgeColor: "#0ea5e9", badgeBg: "#e0f2fe",
     desc: "Intelligent interview preparation platform powered by Generative AI simulating technical and HR interview scenarios with automated feedback.",
     features: ["AI-generated contextual interview questions adapted to skill levels", "Technical & HR interview simulation modes", "Automated feedback and performance analysis dashboard"],
     stack: ["React", "Node.js", "Gemini API"],
-    github: "https://github.com/Aparna882006/ai-interview-bot.git", demo: "https://lnkd.in/dK9UjJ2M",
+    github: "https://github.com/Aparna882006/ai-interview-bot.git", demo: "https://interveux-by-aparna.vercel.app/",
   },
   {
     id: 3, category: "Full Stack", emoji: "🌍", title: "NGOHubX", role: "Full Stack Developer", period: "Feb – Apr 2026", badge: "Featured", badgeColor: "#10b981", badgeBg: "#d1fae5",
