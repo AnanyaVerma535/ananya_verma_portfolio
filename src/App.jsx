@@ -24,14 +24,14 @@ const PROJECTS = [
     desc: "AI-powered infrastructure issue reporting and management platform. Led a 4-member team to build a civic-tech system with intelligent image classification.",
     features: ["Gemini API automated classification from submitted images", "Geolocation-based validation for field-level actions", "MySQL database for complaint lifecycle tracking"],
     stack: ["HTML", "CSS", "JavaScript", "MySQL", "Gemini API", "Geolocation API"],
-    github: "https://github.com/AnanyaVerma535/infrasight-school-ai", demo: "",
+    github: "https://github.com/AnanyaVerma535/infrasight-school-ai", demo: "infrasightschoolmonitoring.vercel.app",
   },
   {
     id: 2, category: "AI/ML", emoji: "🤖", title: "AI Interview Bot", role: "Developer", period: "2025", badge: "AI-Powered", badgeColor: "#0ea5e9", badgeBg: "#e0f2fe",
     desc: "Intelligent interview preparation platform powered by Generative AI simulating technical and HR interview scenarios with automated feedback.",
     features: ["AI-generated contextual interview questions adapted to skill levels", "Technical & HR interview simulation modes", "Automated feedback and performance analysis dashboard"],
     stack: ["React", "Node.js", "Gemini API"],
-    github: "https://github.com/Aparna882006/ai-interview-bot.git", demo: "",
+    github: "https://github.com/Aparna882006/ai-interview-bot.git", demo: "https://lnkd.in/dK9UjJ2M",
   },
   {
     id: 3, category: "Full Stack", emoji: "🌍", title: "NGOHubX", role: "Full Stack Developer", period: "Feb – Apr 2026", badge: "Featured", badgeColor: "#10b981", badgeBg: "#d1fae5",
@@ -74,7 +74,7 @@ const SKILLS = [
 
 const PROFILES = [
   { name: "GitHub", handle: "AnanyaVerma535", desc: "Repositories & Open Source", url: "https://github.com/AnanyaVerma535", color: "#1f2937", bg: "#f9fafb", icon: ICONS.github },
-  { name: "LinkedIn", handle: "ananya-verma", desc: "Professional Network", url: "https://linkedin.com/in/ananya-verma-960b93330", color: "#0a66c2", bg: "#eff6ff", icon: ICONS.linkedin },
+  { name: "LinkedIn", handle: "ananya-verma", desc: "Professional Network", url: "https://www.linkedin.com/in/ananya-verma-960b93330/", color: "#0a66c2", bg: "#eff6ff", icon: ICONS.linkedin },
   { name: "LeetCode", handle: "Ananya-Verma", desc: "Problem Solving", url: "https://leetcode.com/u/Ananya-Verma/", color: "#f97316", bg: "#fff7ed", icon: ICONS.leetcode },
   { name: "HackerRank", handle: "Ananya_verma535", desc: "5★ Python · 5★ SQL · 4★ C", url: "https://www.hackerrank.com/profile/Ananya_verma535", color: "#16a34a", bg: "#f0fdf4", icon: ICONS.hackerrank },
 ];
