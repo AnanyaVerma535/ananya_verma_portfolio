@@ -74,7 +74,7 @@ const SKILLS = [
 
 const PROFILES = [
   { name: "GitHub", handle: "AnanyaVerma535", desc: "Repositories & Open Source", url: "https://github.com/AnanyaVerma535", color: "#1f2937", bg: "#f9fafb", icon: ICONS.github },
-  { name: "LinkedIn", handle: "ananya-verma", desc: "Professional Network", url: "https://www.linkedin.com/in/ananya-verma-960b93330/", color: "#0a66c2", bg: "#eff6ff", icon: ICONS.linkedin },
+  { name: "LinkedIn", handle: "ananya-verma", desc: "Professional Network", url: "https://in.linkedin.com/in/ananya-verma-960b93330", color: "#0a66c2", bg: "#eff6ff", icon: ICONS.linkedin },
   { name: "LeetCode", handle: "Ananya-Verma", desc: "Problem Solving", url: "https://leetcode.com/u/Ananya-Verma/", color: "#f97316", bg: "#fff7ed", icon: ICONS.leetcode },
   { name: "HackerRank", handle: "Ananya_verma535", desc: "5★ Python · 5★ SQL · 4★ C", url: "https://www.hackerrank.com/profile/Ananya_verma535", color: "#16a34a", bg: "#f0fdf4", icon: ICONS.hackerrank },
 ];
